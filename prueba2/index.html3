@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <H1>VIVIENDA MF -71</H1>
+  <div><img src="imagenes/ubicación.jpg" height="400" width="400"></div>
+  <h2>UBICACIÓN</h2>
+  <h3>El proyecto se ubica ene zona urbana en el municipio de Ipiales- Nariño, 
+    el lugar se caracteriza por tener gran predominio de vivienda tendiendo escases de 
+    actividades mixtas.
+  </h3>
+  <h2>PLANTAS ARQUITECTONICAS</h2>
+  <div><img src="imagenes/ff_page-0001.jpg" height="400" width="750" alt=""></div>
+  <div><img src="imagenes/render uno.jpg" height="700" width="750" alt=""></div>
+  <img src="imagenes/corte dos.jpg" height="500" width="300" alt="">
+    <img src="imagenes/zapata.png" height="400" width="350" alt="">
+  <img src="imagenes/viga ipe.png" height="500" width="300" alt="">
+<img src="imagenes/3d ciemntación.png" height="500" width="700" alt="">
+<div>><img src="imagenes/corte uno.jpg" height="500" width="700" alt=""></div>
+<div><img src="imagenes/render dos.jpg" height="700" width="750" alt=""></div>
+<div><img src="imagenes/render tres.jpg" height="700" width="750" alt=""></div>
+</body>
+</html>
